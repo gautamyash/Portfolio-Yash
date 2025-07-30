@@ -63,6 +63,7 @@ export default function Home() {
     { name: 'JavaScript', level: 95 },
     { name: 'Node.js', level: 75 },
     { name: 'Express.js', level: 80 },
+    { name: 'Electron.js', level: 60 },
     { name: 'Python', level: 50 },
     { name: 'MongoDB', level: 70 },
     { name: 'Tailwind CSS', level: 90 },

@@ -7,23 +7,23 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Your Name - Full-Stack Developer',
-  description: 'Full-stack developer portfolio showcasing modern web applications and cutting-edge technologies.',
-  keywords: ['developer', 'portfolio', 'full-stack', 'react', 'next.js', 'typescript'],
-  authors: [{ name: 'Your Name' }],
-  creator: 'Your Name',
+  title: 'Yash Gautam - Front-End Engineer & Full-Stack Developer',
+  description: 'Front-End Engineer with 3.6+ years of experience building responsive, user-friendly, and scalable web applications. Specializing in React, Next.js, and modern web technologies.',
+  keywords: ['developer', 'portfolio', 'front-end', 'full-stack', 'react', 'next.js', 'typescript', 'yash gautam'],
+  authors: [{ name: 'Yash Gautam' }],
+  creator: 'Yash Gautam',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://your-portfolio.vercel.app',
-    title: 'Your Name - Full-Stack Developer',
-    description: 'Full-stack developer portfolio showcasing modern web applications and cutting-edge technologies.',
-    siteName: 'Developer Portfolio',
+    url: 'https://yash-gautam-portfolio.vercel.app',
+    title: 'Yash Gautam - Front-End Engineer & Full-Stack Developer',
+    description: 'Front-End Engineer with 3.6+ years of experience building responsive, user-friendly, and scalable web applications.',
+    siteName: 'Yash Gautam Portfolio',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Your Name - Full-Stack Developer',
-    description: 'Full-stack developer portfolio showcasing modern web applications and cutting-edge technologies.',
+    title: 'Yash Gautam - Front-End Engineer & Full-Stack Developer',
+    description: 'Front-End Engineer with 3.6+ years of experience building responsive, user-friendly, and scalable web applications.',
   },
   robots: {
     index: true,
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: '/favicon.ico',
+    icon: '/favicon.svg',
     apple: '/apple-touch-icon.png',
   },
   manifest: '/manifest.json',
