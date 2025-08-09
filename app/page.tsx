@@ -503,13 +503,7 @@ export default function Home() {
                      </span>
                    ))}
                  </div>
-                 <a 
-                   href="#" 
-                   className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-600 transition-colors font-semibold"
-                   aria-label={`View ${project.title} project`}
-                 >
-                   View Project <ExternalLink className="w-4 h-4" />
-                 </a>
+                 
                </motion.div>
              ))}
            </div>
@@ -555,13 +549,7 @@ export default function Home() {
                    MongoDB
                  </span>
                </div>
-               <a 
-                 href="#" 
-                 className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-600 transition-colors font-semibold"
-                 aria-label="View Mentor Booking System project"
-               >
-                 View Project <ExternalLink className="w-4 h-4" />
-               </a>
+               
              </motion.div>
 
              <motion.div 
@@ -592,13 +580,7 @@ export default function Home() {
                    MongoDB
                  </span>
                </div>
-               <a 
-                 href="#" 
-                 className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-600 transition-colors font-semibold"
-                 aria-label="View Content Management System project"
-               >
-                 View Project <ExternalLink className="w-4 h-4" />
-               </a>
+               
              </motion.div>
 
              <motion.div 
@@ -629,13 +611,7 @@ export default function Home() {
                    MongoDB
                  </span>
                </div>
-               <a 
-                 href="#" 
-                 className="inline-flex items-center gap-2 text-blue-500 hover:text-blue-600 transition-colors font-semibold"
-                 aria-label="View Calendar Integration project"
-               >
-                 View Project <ExternalLink className="w-4 h-4" />
-               </a>
+               
              </motion.div>
            </div>
          </div>
